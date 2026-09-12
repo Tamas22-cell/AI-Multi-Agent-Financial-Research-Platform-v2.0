@@ -2,7 +2,7 @@
 
 > Autonomous multi-agent market intelligence: nine specialist agents, an orchestrator with consensus scoring and regime detection, a risk-agent veto layer, local-LLM bull/bear debate, adaptive agent weighting, forward validation and a 9-panel terminal dashboard — all generated from a single run.
 
-![dashboard](docs/ai-multiagent-platform-v2-hero.jpg)
+![AI Multi-Agent Financial Research Platform v2.0 Dashboard](7ed0862c-848a-4075-ab17-4474efc0216b.png)
 
 ---
 
